@@ -1,0 +1,28 @@
+Graduation Analysis
+
+1. What are the top 10 schools with the highest graduation rates?
+2. How do graduation rates vary across different school districts?
+3. Is there a correlation between class size and graduation rates?
+
+Class Size & Performance
+
+4. Which schools have the largest average class sizes?
+5. Do schools with smaller average class sizes have better SAT scores
+6. What is the average class size per borough?
+
+School Demographics
+
+7. How has student enrollment changed over the years?
+8. What is the racial distribution of students across different schools?
+
+SAT Performance
+
+9. Which schools have the highest and lowest SAT scores?
+10. How do SAT scores impact graduation rates across different schools?
+11. How do SAT scores differ based on class size?
+
+High School Directory
+
+12. Which borough has the highest number of high schools?
+13. What are the top-ranked schools based on SAT and graduation data?
+14. Which high schools offer specialized programs like STEM or arts?
