@@ -1,0 +1,21 @@
+Questions: 
+
+What is the total number of stores, and how many stores are of each type (A, B, C)?
+What is the average store size for each store type?
+Which store has the largest size, and what type is it?
+What is the average age and spending score of customers, broken down by gender?
+
+Identify the top 5 customers with the highest annual income. List their customer IDs and incomes.
+Segment customers into age groups (e.g., 18-25, 26-35, 36-45, etc.) and calculate the average spending score for each group.
+What is the rolling 4-week average sales for each store over time, and how does it help in identifying sales trends?
+How do stores rank based on their total sales performance?
+
+Calculate the year-over-year percentage change in CPI.
+Which departments have the highest average weekly sales?
+What is the year-over-year percentage change in total sales for each year?
+What is the rolling 4-week average sales for each store over time?
+
+How does the average weekly sales differ between holiday and non-holiday periods?
+Rank stores by their size within their respective store type (A, B, C).Use a window function to assign a rank to each store.
+How do stores rank based on their total sales?
+Which stores experienced the highest percentage increase in sales during promotional periods compared to non-promotional periods?
