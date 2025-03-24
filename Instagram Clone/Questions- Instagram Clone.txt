@@ -1,0 +1,15 @@
+Questions: 
+
+We want to reward our 5 users who have been around the longest.
+Finding the day most users registered on.
+Finding users who have never posted a photo.
+The user who got the most likes on a single photo.
+How many times does an average user post?
+
+5 most commonly used hashtags.
+Users who have liked every single photo.
+
+Preventing self-follows using triggers.
+Testing Trigger.
+Logging into unfollow table using triggers.
+Testing logger trigger.
