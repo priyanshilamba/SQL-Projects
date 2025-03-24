@@ -1,0 +1,22 @@
+Questions:
+
+1. Retrieve all accident details where the accident severity is "Fatal" (severity = 1).
+2. Count the number of accidents recorded in the dataset.
+3. List all the unique weather conditions recorded in the accidents dataset and count how often each weather condition appears.
+4. Find the total number of casualties recorded, grouped by accident severity.
+5. Retrieve the accident index, vehicle reference, and vehicle type for all recorded vehicles, and count the occurrences of each vehicle type in accidents.
+6. Display the number of accidents that occurred in rural versus urban areas.
+7. Find the top 5 most common vehicle types involved in accidents.
+8. Determine the number of accidents that occurred under different light conditions.
+9. Identify the age group that had the highest number of casualties.
+10. List the top 3 accident locations with the most casualties.
+11. Find the percentage of accidents that occurred in rainy conditions.
+12. Retrieve details of all accidents where pedestrians were involved.
+13. Identify the most common driver age group involved in accidents and correlate it with accident severity.
+14. Determine which day of the week had the highest number of accidents.
+15. Calculate the percentage of severe (fatal + serious) accidents per road condition.
+16. Compare accident severity between urban and rural areas using SQL window functions.
+17. Identify accident hotspots using a clustering approach
+18. Determine the influence of weather conditions on accident severity
+19. Find the most accident-prone vehicle type and its impact on casualties
+20. Analyze accident trends over time using a moving average
